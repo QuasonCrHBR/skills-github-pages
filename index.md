@@ -1,4 +1,4 @@
 ---
 title: Welcome to my test page!
 ---
-Nothing important here, just adding some sample text.
+<p>Nothing important here, just adding some sample text.</p>
