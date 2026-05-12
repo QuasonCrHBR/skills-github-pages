@@ -1,6 +1,5 @@
 ---
 title: Welcome to my test page!
-
-<p>Nothing important here, just adding some sample text.</p>
+date: 2025-05-15
 ---
 
